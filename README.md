@@ -8,16 +8,8 @@ This Python script automates the process of leveling up in Forza by simulating k
 
 Forza Horizon has introduced a new leveling system that can be time-consuming, especially for players with limited time to dedicate to gaming. This script automates the repetitive task of leveling up by simulating key presses (in this case, pressing the "D" key) at regular intervals. The goal is to provide a solution for players who want to progress in the game without having to spend excessive time in front of their screens.
 
-## Requirements
+## How does it work?
 
-To run this script, the following Python packages are required:
+The program will open and you can press 'Start' or 'Stop' to get the program to either start or stop at any time. Any time 'D' is pressed, it will get logged. 
 
-- opencv-python
-- numpy
-- pyautogui
-- Pillow
-
-You can install these dependencies using the provided `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
+## 
