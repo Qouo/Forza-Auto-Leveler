@@ -1,3 +1,5 @@
+# TODO -- add image of what the car level 50 should look like for the program to stop.
+
 import time
 import pyautogui
 import logging
